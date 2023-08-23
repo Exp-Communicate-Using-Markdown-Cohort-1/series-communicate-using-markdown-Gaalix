@@ -5,3 +5,7 @@
 ```
 $ sudo apt update && sudo apt upgrade -y
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
